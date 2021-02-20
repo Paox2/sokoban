@@ -1,0 +1,88 @@
+MapSetName: Example Game!
+LevelName: Level1
+WWWWWWWWWWWWWWWWWWWW
+W    W             W
+W C  W D           W
+w    w      WWWWWWWW
+w    WWWW  WWWWWWWWW
+w            WWWWWWW
+w    WWWWW   WWWWWWW
+w    WWWWWWWWWWWWWWW
+w    WWWWWWWWWWWWWWW
+W----WWWWWWWWWWWWWWW
+w    WWWWWWWWWWWWWWW
+w       C   WWWWWWWW
+w       W WWWWWWWWWW
+wWWWWWW W WWWWWWWWWW
+wWWWWWW W WWWWWWWWWW
+wWWWWWW W WWWWWWWWWW
+wWWWWWW W WWWWWWWWWW
+wWWWWWW W WWWWWWWWWW
+wWWWWWW   SWWWWWWWWW
+wwwwwwwwWwwwwwwwwwww
+
+LevelName: Level2
+WWWWWWWWWWWWWWWWWWWW
+W    W             W
+W C  W C           W
+w C  w      WW WWWWW
+wD   WWWWWW W C   DW
+w      D           W
+w                  W
+w           WWWWWWWW
+ww--w--ww--wWWWWWWWW
+w           WWWWWWWW
+w  C        WWWWWWWW
+w      S    WWWWWWWW
+wW          WWWWWWWW
+wWW       WWW  WWWWW
+wWWW      W     WWWW
+wWWWW     WD    WWWW
+wWWWWW    WWWW WWWWW
+wWWWWWW            W
+wWWWWWWWWW         W
+wwwwwwwwwwwwwwwwwwww
+
+LevelName: Level3
+WWWWWWWWWWWWWWWWWWWW
+WDDCDDWPTWWW     D W
+WDDWDDWW   C  C CDDW
+W CCC wW   DWW wWD w
+W  C  WW  CDC C    W
+W CCC W  w D   W   W
+W  w  w wwwWWWwWwCwW
+W  w           ww wW
+W  w wwDwwwww     wW
+WWWW C         wwwwW
+Wwwwwwwwwd ww wwwwwW
+Wwdwwwwww www s    W
+W c       wwwwwwww W
+W cwwwwww wwwwww   W
+W  wwwwww www    wwW
+Ww wwwwww  ww wwwwdW
+W  w      cdw      W
+W t C      c       W
+WwPW Dwwwww    wwwwW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: Level4
+WWWWWWWWWWWWWWWWWWWW
+w   w   wWWWWWW   WW
+w W W W wW   WW W WW
+w W   W wW W    W WW
+w WWWWW  W W  WWD DW
+w W  DWW W  WWWW C W
+w W  C   WW WWWW CWW
+w WWC    WW WWWW   W
+w WW D      WWWW CDW
+w WWWWWWWW  WWWWW  W
+w       WW   DC   WW
+wwWWWWW WWWW CDWWWWW
+wwWDwwW WWWWW   WWWW
+w W WwW WWWWWWWWWWWW
+w W WWW WWWWWWWWWWWW
+w W   C      WWWWWWW
+w w   WWWWWW   WWWWW
+w wWWWWWWWSWWW wwwwW
+w               GwwW
+wwwwwwwwwwwwwwwwwwww

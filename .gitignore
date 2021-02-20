@@ -1,0 +1,31 @@
+##filter databfile、sln file##
+*.mdb
+*.ldb
+*.sln
+
+##class file##
+*.com
+*.class
+*.exe
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+
+# log
+logs/
+
+.idea/
+
+# use in the javadoc brach
+# src/
+# *.md
+# *.xml
+
+# use in class diagram
+# src/
+# *.md
+# *.xml
+# javadoc/

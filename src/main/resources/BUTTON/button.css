@@ -1,0 +1,57 @@
+.menu-button {
+    -fx-background-size: 100% 100%;
+    -fx-background-color: transparent;
+    -fx-background-radius: 25;
+    -fx-border-radius: 25;
+    -fx-border-color: #5F9EA0;
+    -fx-pref-width: 150;
+    -fx-pref-height: 40;
+}
+
+.menu:hover, .menu:focused, .menu:pressed {
+    -fx-background-color: transparent;
+}
+
+.menu-button:pressed {
+    -fx-effect: innershadow( three-pass-box , rgba(64, 64, 64, 0.8), 10, 0.0 , 0 , 0);
+}
+
+.menu-item {
+    -fx-pref-width: 200;
+    -fx-pref-height: 30;
+    -fx-border-radius: 25;
+    -fx-border-color: #5F9EA0;
+    -fx-background-color: rgba(0,0,0,0.3);
+}
+
+.menu-item:focused {
+    -fx-background-color: rgba(0,0,0,0.3);
+}
+
+
+.context-menu {
+    -fx-background-color: rgba(0,0,0,0.3);
+}
+
+.menu-item:hover {
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.8) , 10, 0.0 , 0 , 0);
+}
+
+.menu-item:pressed {
+    -fx-effect: innershadow( three-pass-box , rgba(64, 64, 64, 0.8), 10, 0.0 , 0 , 0);
+}
+
+#hbox {
+    -fx-background-color: transparent;
+    -fx-background-radius: 25;
+    -fx-padding: 0 35 0 35;
+    -fx-spacing: 40;
+    -fx-border-color: #5F9EA0;
+}
+
+
+.label {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 15px;
+    -fx-font-family: "Trebuchet MS";
+}
