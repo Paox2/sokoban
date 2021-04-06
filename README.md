@@ -13,34 +13,13 @@
 
 ## <a name="fundamental"></a>Fundamental
 
-#### Name : Wendi Han
-
-#### ID: 20126355
-
 #### Word counts(except catalog, link tag and images) : ≈ 480words.
 
 #### JavaDoc : Docs/index.html
 
 #### Test : Windows, Intellij idea, Maven, java 14, javafx 13
 
-#### Compile Detail(if cannot run):  
 
-- Normally, it will automatic download the javafx resources and test package I needed because I add dependence on the 'pom.xml'
-
-- If it is not work and shows javafx class cannot be recognized, please re-download the sources from  remote warehouse
-
-- If game cannot play, try to set follow option:  the java JDK version I use is 14, 
-
-  bytecode version 14	-    In *"settings - compiler - java compile  - target bytecode version : 14"*
-
-  project Sdk : 14   -   In *"project structure - project - project SDK : 14"*
-
-  project language level :  14   -   In *"project structure - project - project language level : 14"*
-
-  Module SDK : 14   -   In *"project structure - module- module SDK : 14"*
-
-- If it shows the error about openjfx version 0.05, please open the main/Main.java and run Main.main()
-- If above setting cannot make it work, please contact with me : scywh1@nottingham.ac.uk
 
 
 
